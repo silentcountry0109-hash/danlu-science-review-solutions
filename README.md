@@ -5,7 +5,7 @@
 
 ## 部署到 GitHub Pages
 
-1. 在 GitHub 建立一個新的空 repository（例如 `danlu-science-solutions`，不要勾選建立 README）。
+1. 在 GitHub 建立一個新的空 repository（例如 `danlu-science-review-solutions`，不要勾選建立 README）。
 2. 在這個資料夾執行：
    ```bash
    git remote add origin https://github.com/<帳號>/<repository>.git
