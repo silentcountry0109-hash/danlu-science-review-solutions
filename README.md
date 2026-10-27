@@ -12,7 +12,8 @@
    git push -u origin main
    ```
 3. GitHub 上該 repository → Settings → Pages → Build and deployment：Source 選「Deploy from a branch」，Branch 選 `main`、資料夾 `/ (root)`，按 Save。
-4. 約一分鐘後網址為 `https://<帳號>.github.io/<repository>/`。
+4. 約一分鐘後上線。目前網址：**https://danlu-science-review-solutions.danlu-education.com/**
+   （自訂網域：Namecheap 的 danlu-education.com 加 CNAME 記錄 `danlu-science-review-solutions` → `silentcountry0109-hash.github.io`，repository 的 `CNAME` 檔記錄網域；舊網址 silentcountry0109-hash.github.io/danlu-science-review-solutions/ 會自動轉址。）
 
 ## 網址錨點（做 QR Code 用）
 
@@ -23,7 +24,7 @@
 | `#3b-4-k2` | 3下 第四章 知識點 2（自動展開） |
 | `#3b-4-q12` | 3下 第四章 第 12 題 |
 
-每冊學用合併本封面的 QR Code 可指向 `https://<帳號>.github.io/<repository>/#1a` 等，掃描後直接開啟該冊。
+每冊學用合併本封面的 QR Code 指向 `https://danlu-science-review-solutions.danlu-education.com/#1a` 等，掃描後直接開啟該冊。
 
 ## 更新內容
 
